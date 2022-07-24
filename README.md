@@ -11,7 +11,7 @@ There are three types of users: guest, reader, librarian.
 
 As a guest you can see the available books in the library, the genres, the details of the books are visible. however you are not allowed to borrow them. 
 
-![Books of a genre](resources/Képkivágás2.jpg)
+![Books of a genre](resources/Képkivágás2.JPG)
 
 ![Details of a book](resources/Képkivágás3.jpg)
 
