@@ -3,7 +3,7 @@
 This Laravel webapplication is an imagenary library where you can borrow books.
 This is a past uni assignment and filled with fake data. 
 
-![The main page of the library](resources/Képkivágás.jpg)
+![The main page of the library]([resources/Képkivágás.jpg](https://raw.github.com/CsZsani/laravel_library/main/resources/Képkivágás.jpg))
 
 There are three types of users: guest, reader, librarian.
 
